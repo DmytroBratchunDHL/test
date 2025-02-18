@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/edge-delivery-demo/:/",
-    "/content/edge-delivery-demo/configuration:/.helix/config.json",
-    "/content/edge-delivery-demo/metadata:/metadata.json"
+    "/content/test-site/:/",
+    "/content/test-site/configuration:/.helix/config.json",
+    "/content/test-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/edge-delivery-demo/"
+    "/content/test-site/"
   ]
 }
